@@ -1,3 +1,3 @@
-abcdefg
+abcde
 Create a new branch is quick.
-1
+Create a new branch is quick and easy.
